@@ -68,3 +68,11 @@ npm install cli-table3 js-sha3
 # Run with custom dice (each die has 6 comma-separated faces)
 
 node main.js 1,2,3,4,5,6 1,3,5,7,9,5 2,2,4,4,6,6
+
+```
+---
+
+👨‍💻 Author
+Created by Ayon Roy
+GitHub: @ayon014
+
