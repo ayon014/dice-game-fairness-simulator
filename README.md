@@ -55,7 +55,8 @@ A cryptographic dice simulation game that ensures **provable fairness** between 
 
 ## 📦 Installation & Usage
 
-Dependencies
+Dependencies:
+
 cli-table3 – For clean and elegant console tables.
 
 js-sha3 – For computing SHA3-256 and HMAC hashes.
